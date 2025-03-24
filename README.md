@@ -1,3 +1,7 @@
+
+  Profile Views [![HitCount](https://hits.dwyl.com/Ritesh956/Ritesh956.svg?style=flat-square)](http://hits.dwyl.com/Ritesh956/Ritesh956)
+
+
 - 👋 Hi, I’m @Ritesh956
 - 👀 I’m interested in Coding And Astronomy..
 - 🌱 I’m currently learning React..
