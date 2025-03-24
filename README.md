@@ -1,5 +1,6 @@
+Hi there!
 
-  Profile Views [![HitCount](https://hits.dwyl.com/Ritesh956/Ritesh956.svg?style=flat-square)](http://hits.dwyl.com/Ritesh956/Ritesh956)
+![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=Ritesh956)
 
 
 - 👋 Hi, I’m @Ritesh956
