@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ritesh</h1>
 <h3 align="center">A 3rd year CSE student from MIT Manipal.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ritesh956&label=Profile%20views&color=b40e0e&style=flat" alt="ritesh956" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ritesh956&label=Profile%20views&color=00fefc&style=flat" alt="ritesh956" /> </p>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_ritesh_956) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ritesh-gupta-1899ab305) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/StrawHat_Yeager) 
